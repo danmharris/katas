@@ -4,3 +4,4 @@ Repository for any coding katas I do to practice languages or learn other develo
 
 | Name | Kata Link | Language |
 | ---- | --------- | -------- |
+| Tennis| https://codingdojo.org/kata/Tennis/ | Ruby |
